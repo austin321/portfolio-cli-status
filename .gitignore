@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+*.enc
+*.csv
+!samples/*.csv
+constants.py
